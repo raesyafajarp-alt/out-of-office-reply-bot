@@ -2,7 +2,7 @@
 
 import os
 
-ENTRY = "I'm out of the office until Monday - my inbox is unsupervised, and frankly, so am I."
+ENTRY = "I'm out of the office until Monday — my inbox is unsupervised, and so am I."
 
 def main():
     os.makedirs("/output", exist_ok=True)
