@@ -8,7 +8,7 @@ Entry for make.fun competition
 
 > I'm out of the office until Monday — my inbox is unsupervised, and so am I.
 
-(78 characters, one line.)
+(75 characters, one line.)
 
 ## What the program does
 
